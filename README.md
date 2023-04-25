@@ -29,17 +29,11 @@ El proyecto esta dividido en distintas ramas las cuales detallamos a continuaci�
 
 | Rama            | Descripción                                                       | Clase                               |
 | --------------- | ----------------------------------------------------------------- | ----------------------------------- |
-| main            | Proyecto Finalizado y explicación del proyecto                    | Mostrar antes de empezar a codearlo |
+| main            | Proyecto Finalizado y explicación del proyecto                    | verlo antes de empezar
 | clase-flex      | Landing desktop                                                   | 1.8 y 1.9                           |
 | sticky          | Ejemplo de position sticky                                        | 1.10                                |
 | mediaqueries    | gradientes (header y h1) , Menú hamburguesa, carrito y responsive | 1.11                                |
 | pseudoelementos | Animaciones, transiciones , pseudoelementos y pseudoclases        | 1.14                                |
 
-En cada rama el profesor tendrá el código de guía de la clase en la que este trabajando.
-Por ejemplo , si estuviera trabajando en la clase de flex (1.8 1.9), debería utilizar la rama clase-flex.
-
-### Aclaración:
-
-En el readme de las distintas ramas tendrán la información de que cosas modificar en cada una de ellas
 
 
